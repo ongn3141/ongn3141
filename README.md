@@ -28,8 +28,6 @@ My name is Nathan Ong, and I am an Assistant Professor at Duquesne University in
 
    See above.
 
-Here's a [nice link](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
-
 | Programming Languages | Proficiency |
 | :-------------------- | :---------- |
 | Java                  | Proficient  |
@@ -42,7 +40,8 @@ Here's a [nice link](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 - [ ] Task 2
 
 
-![Rick Astley's Never Gonna Give You Up Cover Image on YouTube](https://i.ytimg.com/vi/dQw4w9WgXcQ/hq720.jpg "Text displayed on hover")
+[![Rick Astley's Never Gonna Give You Up Cover Image on YouTube](https://i.ytimg.com/vi/dQw4w9WgXcQ/hq720.jpg "Text displayed on hover")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Here's a [nice link](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 **ongn3141/ongn3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
